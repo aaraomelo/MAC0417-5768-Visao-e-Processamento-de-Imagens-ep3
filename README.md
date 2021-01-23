@@ -1,4 +1,4 @@
-# EP01 - Visão e Processamento de Imagens
+# EP03 - Visão e Processamento de Imagens
 
 | Matrícula| Nome                      |
 | ---------| --------------------------|
